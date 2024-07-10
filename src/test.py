@@ -28,4 +28,3 @@ if __name__ == "__main__":
         sys.exit(2)
 
     print(token_program_address, endpoint)
-

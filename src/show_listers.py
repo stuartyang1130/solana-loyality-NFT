@@ -11,6 +11,7 @@ if __name__ == "__main__":
         listers_df = pandas.DataFrame(
             json.loads(_listers.read()), columns=["owner", "listings", "epoch"]
         )
+        
 
     print(listers_df[:5])
     print(listers_df["listings"].sum())

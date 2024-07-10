@@ -20,3 +20,4 @@ if __name__ == "__main__":
       elw.write(json.dumps([ error for error in errors if error not in rectified ]).encode('utf-8'))
 
     print(json.dumps(rectified))
+    

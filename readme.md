@@ -1,4 +1,4 @@
-# Solana NFT Rewards System
+# Solana NFT Rewards System..
 
 ## Intention
 Mediate rewards to mint holders of an NFT that is not listed.
