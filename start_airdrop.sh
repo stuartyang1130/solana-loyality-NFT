@@ -5,3 +5,4 @@ python3 ./src/airdrop.py \
 --exclude "burner" \
 --exclude "magic eden" \
 --reward 69420
+
